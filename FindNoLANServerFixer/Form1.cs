@@ -32,6 +32,7 @@ namespace FindNoLANServerFixer {
             psi.Arguments = @cmd2;
             p1.Start();
             p1.Close();
+            MessageBox.Show("Der Server sollte nun zu finden sein.\r\nAlle Änderungen werden bei einem Windows-Neustart zurückgesetzt.","Fertig!",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
 
         private void fetchNetworkInterfaces() {
