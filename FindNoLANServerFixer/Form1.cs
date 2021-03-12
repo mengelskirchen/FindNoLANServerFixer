@@ -21,7 +21,7 @@ namespace FindNoLANServerFixer {
             Console.WriteLine(cmd1);
             Process p1 = new Process();
             ProcessStartInfo psi = new ProcessStartInfo();
-            //psi.WindowStyle = ProcessWindowStyle.Hidden;
+            psi.WindowStyle = ProcessWindowStyle.Hidden;
             psi.UseShellExecute = true;
             psi.Verb = "runas";
             psi.FileName = "cmd.exe";
