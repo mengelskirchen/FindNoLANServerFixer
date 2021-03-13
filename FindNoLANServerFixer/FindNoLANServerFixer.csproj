@@ -68,6 +68,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\FindNoLANServerFixer.exe.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -83,7 +84,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="257164-200.ico" />
+    <Content Include="bin\Debug\FindNoLANServerFixer.exe" />
+    <Content Include="bin\Debug\FindNoLANServerFixer.pdb" />
     <Content Include="internetlanoutletplugportsockettelephone_123070.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
