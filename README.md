@@ -8,8 +8,8 @@ Doch dies hat in modernen Windows Versionen nicht mehr den nötigen Effekt, dass
 
 Um es euch leichter zu machen, habe ich dieses Tool geschrieben.
 
-Wählt dort einfach euren Ethernet/WLAN Adapter aus über den ihr mit dem Server/ den anderen Spielern komunizieren möchtet.
-Den rest mach mein Tool für euch.
+Wählt dort einfach euren Ethernet/WLAN Adapter aus über den ihr mit dem Server / den anderen Spielern komunizieren möchtet.
+Den Rest mach mein Tool für euch.
 
 Und keine Sorge. Die Änderungen in den Routing Tabellen sind nicht persistent. Sprich nach einem Windows Neustart ist alles wieder wie vorher.
 
