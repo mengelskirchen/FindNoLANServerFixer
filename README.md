@@ -11,7 +11,9 @@ Um es euch leichter zu machen, habe ich dieses Tool geschrieben.
 Wählt dort einfach euren Ethernet/WLAN Adapter aus über den ihr mit dem Server / den anderen Spielern komunizieren möchtet.
 Den Rest mach mein Tool für euch.
 
-Und keine Sorge. Die Änderungen in den Routing Tabellen sind nicht persistent. Sprich nach einem Windows Neustart ist alles wieder wie vorher.
+Und keine Sorge. 
+Die Änderungen in den Routing Tabellen sind nicht persistent. 
+Sprich nach einem Windows Neustart ist alles wieder wie vorher.
 
 Viel Spaß :)
 Ich hoffe eure Suche hat hier ein Ende und das zocken kann endlich anfangen.
