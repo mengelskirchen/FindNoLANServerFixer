@@ -20,4 +20,4 @@ Ich hoffe eure Suche hat hier ein Ende und das zocken kann endlich anfangen.
 Niemand will wieder dieser Eine sein, welcher nicht auf den Server kommt und alles aufhällt. ;)
 
 Direkter Download:
-https://github.com/mengelskirchen/FindNoLANServerFixer/blob/master/FindNoLANServerFixer/bin/Debug/FindNoLANServerFixer.exe
+https://github.com/mengelskirchen/FindNoLANServerFixer/raw/master/FindNoLANServerFixer/bin/Debug/FindNoLANServerFixer.exe
