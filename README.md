@@ -1,4 +1,4 @@
-[![CodeFactor](https://img.shields.io/github/downloads/mengelskirchen/FindNoLANServerFixer/total?label=download)](https://github.com/mengelskirchen/FindNoLANServerFixer/releases/download/v1.0.0/FindNoLANServerFixer.exe) 
+[![CodeFactor](https://img.shields.io/github/downloads/mengelskirchen/FindNoLANServerFixer/v1.0.0/total?color=green&label=Download&logo=Github)](https://github.com/mengelskirchen/FindNoLANServerFixer/releases/download/v1.0.0/FindNoLANServerFixer.exe) 
 [![CodeFactor](https://www.codefactor.io/repository/github/mengelskirchen/findnolanserverfixer/badge)](https://www.codefactor.io/repository/github/mengelskirchen/findnolanserverfixer)
 
 # FindNoLANServerFixer
