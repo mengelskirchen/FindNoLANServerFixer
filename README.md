@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/mengelskirchen/findnolanserverfixer/badge)](https://www.codefactor.io/repository/github/mengelskirchen/findnolanserverfixer)
+
 # FindNoLANServerFixer
 
 Wenn ihr mal wieder den GameServer auf einer LAN nicht finden könnt, liegt das vermutlich nicht nur an eurer Firewall.
