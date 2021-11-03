@@ -4,9 +4,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 
 namespace FindNoLANServerFixer {
-
     public partial class Form1 : Form {
-
         public Form1() {
             InitializeComponent();
             cbx_interfaces.DisplayMember = "Description";
