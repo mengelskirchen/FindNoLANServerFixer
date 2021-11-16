@@ -3,7 +3,7 @@
 
 # FindNoLANServerFixer
 
-Wenn ihr mal wieder den GameServer auf einer LAN nicht finden könnt, liegt das vermutlich nicht nur an eurer Firewall. 
+Wenn ihr mal wieder den GameServer auf einer LAN nicht finden könnt, liegt das vermutlich nicht nur an eurer Firewall.
 Es kann sein, dass eure Routing-Tabellen nicht richtig eingerichtet sind und die Broadcasts in das falsche Netz wandern.
 
 In frühreren Windows Versionen reichte es noch die Priorität eurer Netzwerkadapter zu ändern. Viele von euch kennen dieses Trick sicher noch.
